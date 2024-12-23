@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+.container {
+  padding: 10px;
+  background-color: #223047;
+  box-shadow: 
+  0 0 5px #ffffff,
+  0 0 10px #ffffff,
+  0 0 15px yellow,
+  0 0 20px yellow;
+}
+.text-home {
+  color: #223047;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+.main-link {
+  display: flex;
+  justify-content: center;
+  justify-self: center;
+  width:50%;
+  padding: 30px auto;
+}
+.footer {
+  padding: 30px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+h1 {
+  text-align: center;
+  color: red;
+  font-family: "Luckiest Guy", cursive;
+  font-weight: bold;
+  font-size: 48px;
+  letter-spacing: 5px;
+  text-shadow: 
+  0 0 5px #ffffff,
+  0 0 10px #ffffff,
+  0 0 15px yellow,
+  0 0 20px yellow;
+}
+a {
+  color: white;
+  border: 2px solid white;
+  border-radius: 15px;
+  padding: 10px 30px; 
+  font-weight: bolder;
+  text-decoration: none;
+  cursor: pointer;
+  background-color: red;
+  
+}
+

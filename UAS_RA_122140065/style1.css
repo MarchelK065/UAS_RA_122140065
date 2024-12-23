@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Luckiest+Guy&display=swap');
+body {
+  font-family: Arial, sans-serif;
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+.container {
+  width: 60%;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #223047;
+  border-radius: 15px;
+  box-shadow: 
+  0 0 5px #ffffff,
+  0 0 10px #ffffff,
+  0 0 15px yellow,
+  0 0 20px yellow;
+}
+h1 {
+  text-align: center;
+  color: red;
+  font-family: "Luckiest Guy", cursive;
+  font-weight: bold;
+  letter-spacing: 5px;
+  text-shadow: 
+  0 0 5px #ffffff,
+  0 0 10px #ffffff,
+  0 0 15px yellow,
+  0 0 20px yellow;
+}
+label {
+  font-weight: bold;
+}
+input, button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  background-color: white;
+  color: black;
+  box-sizing: border-box;
+}
+button {
+  color: #DAA520;
+  background-color: lightgray;
+  border: none;
+  font-weight: bold;
+}
+
+p {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+a {
+  color: yellow;
+  font-weight: bolder;
+}

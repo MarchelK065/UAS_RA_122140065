@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  color: red;
+  font-family: "Luckiest Guy", cursive;
+  font-weight: bold;
+  letter-spacing: 5px;
+  text-shadow: 
+  0 0 5px #ffffff,
+  0 0 10px #ffffff,
+  0 0 15px yellow,
+  0 0 20px yellow;
+}
